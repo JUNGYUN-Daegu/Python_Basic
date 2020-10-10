@@ -1,0 +1,20 @@
+print(4+2)
+#result: 6
+
+print(4-2)
+#result: 6
+
+print(4*2)
+#result: 8
+
+print(4**2) 
+#result: 16 (제곱승)
+
+print(5/2)
+#result: 2.5 (몫)
+
+print(5//2)
+#result: 2 (정수몫)
+
+print(5%2)
+#result: 1 (나머지)
